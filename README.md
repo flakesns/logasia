@@ -12,7 +12,7 @@ This is a Single App Application using Laravel 5.2 and AngularJs.
 ## Installing
 - Create a new project folder, eg: logasia
 - cd logasia
-- git clone https://flakesns@bitbucket.org/flakesns/logasia.git
+- git clone https://github.com/flakesns/logasia.git
 - Add virtual host in apache, eg: logasia.com
 - Edit your host file: add 127.0.0.1 logasia.com
 - Install dependencies
