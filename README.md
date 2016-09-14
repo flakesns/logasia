@@ -39,6 +39,9 @@ php artisan db:seed
 ## Issues
 Due to current job workload, i don't have enough time to focus on this app.
 
+## Demo
+[Demo](https://logistic8.herokuapp.com/)
+
 ## Develop By
 [Hafiz](http://hafiznor.wordpress.com)
 
