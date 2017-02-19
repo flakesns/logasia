@@ -1,4 +1,4 @@
-# Logasia Test Assignment
+# Vehicle Availability
 
 ## Description
 This is a Single App Application using Laravel 5.2 and AngularJs.
